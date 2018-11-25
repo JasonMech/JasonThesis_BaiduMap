@@ -20,7 +20,7 @@ For users:
 5. click 'pull requests' -> 'New pull request' -> Create pull request
 
 Then manager shall read and update the files.
-Thanks.
+Thank you.
 
 Normal: 
 1. git add + Filename				# add/modify same here.
