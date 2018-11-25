@@ -1,0 +1,22 @@
+This is used for Jason's Thesis.
+
+For manager:
+1. cd + local files source			# track the source on local laptop
+2. git config --global user.name		# initialise the manager's name
+3. git config --global user.email		# initialise the manager's email
+4. git config -l				# check what u have done
+5. git init					# initialize a git file for remote usage(under the local file)
+6. git remote add origin + (httplink)		# connect local file with online source
+7. git status					# check Untracked files
+8. git add *					# you WILL add files 
+9. git commit -m '(comment)'
+10.git push -u origin master			# upload the files
+
+For users:
+1. find the project on github
+2. click 'fork' to copy the files into personlly website
+3. click 'edit this file' on whatever u want to modify, then modify the file
+4. click 'commit changes'
+5. click 'pull requests' -> 'New pull request' -> Create pull request
+
+Then manager shall read and update the files.
