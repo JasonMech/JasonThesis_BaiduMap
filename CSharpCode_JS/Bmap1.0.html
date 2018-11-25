@@ -1,0 +1,52 @@
+﻿<html>
+<head>
+    <meta http-equiv="Content-Type" content="Jason_test_UNSW" />
+    <meta name="viewport" content="Jason_test_UNSW" />
+    <meta charset="utf-8" />
+    <style type="text/css">
+         html, #allmap {
+            width: 100%;
+            height: 100%;
+            overflow: scroll;
+            margin: 1px;
+            font-family: "Times New Roman";
+        }
+        }
+
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=6zes3sjqlWuZcCzoe6YbEsKTuybFvojU"></script>
+    <title>arrangement</title>
+</head>
+<body>   
+    <div id="allmap"></div>
+</body>
+</html>
+
+<script type="text/javascript">
+    // Bmap API
+    var map = new BMap.Map("allmap");
+    map.centerAndZoom(new BMap.Point(123.50, 43.52), 6);
+    map.enableScrollWheelZoom();   //enable ScorollWheels
+    map.enableContinuousZoom();    //Inertial dragging
+
+    var point_primaryschool = new BMap.Point(123.51, 43.52);
+    var marker1 = new BMap.Marker(point_primaryschool)
+    map.addOverlay(marker1);
+
+
+    var point_middleschool = new BMap.Point(124.22, 43.10);
+    var marker2 = new BMap.Marker(point_middleschool)
+    map.addOverlay(marker2);
+
+    var point_uni = new BMap.Point(114.31, 30.52);
+    var marker3 = new BMap.Marker(point_uni)
+    map.addOverlay(marker3);
+
+    var point_unipost = new BMap.Point(151.12, -33.52);
+    var marker4 = new BMap.Marker(point_unipost)
+    map.addOverlay(marker4);
+
+
+</script>
+
+

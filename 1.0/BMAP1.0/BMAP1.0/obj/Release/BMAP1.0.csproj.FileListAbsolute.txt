@@ -1,0 +1,11 @@
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\bin\Release\BMAP1.0.exe.config
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\bin\Release\BMAP1.0.exe
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\bin\Release\BMAP1.0.pdb
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\bin\Release\WindowsFormsControlLibrary1.dll
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\bin\Release\WindowsFormsControlLibrary1.pdb
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1._0.Form1.resources
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1._0.Properties.Resources.resources
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1.0.csproj.GenerateResource.Cache
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1.0.csproj.CoreCompileInputs.cache
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1.0.exe
+C:\Users\nxxhu\Desktop\js_practice\1.0\BMAP1.0\BMAP1.0\obj\Release\BMAP1.0.pdb
